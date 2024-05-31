@@ -1,0 +1,16 @@
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\bin\Debug\FF_Os_Lab_Motamedi.exe.config
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\bin\Debug\FF_Os_Lab_Motamedi.exe
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\bin\Debug\FF_Os_Lab_Motamedi.pdb
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.csprojAssemblyReference.cache
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form1.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Properties.Resources.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.csproj.GenerateResource.cache
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.csproj.CoreCompileInputs.cache
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.exe
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.pdb
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form2.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form3.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form4.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form5.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form6.resources
+C:\Users\Diacko\source\repos\FF_Os_Lab_Motamedi\FF_Os_Lab_Motamedi\obj\Debug\FF_Os_Lab_Motamedi.Form7.resources
